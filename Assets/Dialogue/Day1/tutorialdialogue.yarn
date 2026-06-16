@@ -1,0 +1,25 @@
+﻿title: pickupthephone
+---
+Someone is calling! Click on the Phone to interact.
+///and then clicking the phone initiates jump to the next node ("heygirl"). But idk how to do that. So for now I'll just do this:
+-> Pick up the phone.
+    <<jump heygirl>>
+===
+
+title: heygirl
+position: 167,234
+---
+Keira Hudson: Hey girl! I’m in town today, wanna get brunch?
+-> Why are you in town?
+Keira Hudson: Can't you act more excited? My client wants to look at some apartments in our old neighborhood. For some reason.
+-> Our old neighborhood?
+Keira Hudson: Yeah, Durville. Where we lived with Mom and Barto until I graduated high school? Well, I guess you wouldn’t remember. How old were you then? Two? Three?
+-> Two.
+KEIRA HUDSON: Yeah, okay. Anyways, wanna get brunch or no?
+->  I’m working, Keira.
+KEIRA HUDSON: Ohhhhhhh, good point. I didn’t think about that.
+->  Okay, I have to go.
+KEIRA HUDSON: Okay byeeeee!!!!
+
+-> put the phone down.
+===

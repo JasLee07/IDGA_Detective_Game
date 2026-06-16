@@ -1,0 +1,23 @@
+{
+    "projectFileVersion": 3,
+    "sourceFiles": [
+        "**/*.yarn"
+    ],
+    "excludeFiles": [
+        "**/*~/*",
+        "./Samples/Yarn Spinner*/*"
+    ],
+    "localisation": {},
+    "baseLanguage": "en",
+    "compilerOptions": {
+        "yarnScriptEditor": {
+            "projectGraphPositions": {
+                "tutorialdialogue.yarn": {
+                    "x": -105,
+                    "y": -19
+                }
+            }
+        }
+    },
+    "definitionsFiles": []
+}
