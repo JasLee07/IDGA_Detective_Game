@@ -1,12 +1,11 @@
-﻿title: pickupthephone
+title: Start
 ---
 Someone is calling! Click on the Phone to interact.
-///and then clicking the phone initiates jump to the next node ("heygirl"). But idk how to do that. So for now I'll just do this:
 -> Pick up the phone.
-    <<jump heygirl>>
+    <<jump Heygirl>>
 ===
 
-title: heygirl
+title: Heygirl
 position: 167,234
 ---
 Keira Hudson: Hey girl! I’m in town today, wanna get brunch?

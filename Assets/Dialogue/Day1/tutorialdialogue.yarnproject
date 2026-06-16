@@ -1,7 +1,8 @@
 {
     "projectFileVersion": 3,
     "sourceFiles": [
-        "**/*.yarn"
+        "**/*.yarn",
+        "tutorialdialogue.yarn"
     ],
     "excludeFiles": [
         "**/*~/*",
